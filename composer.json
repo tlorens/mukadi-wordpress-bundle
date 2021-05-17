@@ -1,6 +1,6 @@
 {
-    "name": "mukadi/wordpress-bundle",
-    "description": "Integrate wordpress and symfony in the same application",
+    "name": "tlorens/wordpress-bundle",
+    "description": "Forked, Do not use. Another behind the times bundle.  Integrate wordpress and symfony in the same application",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
@@ -20,7 +20,7 @@
         "doctrine/orm": "^2.2",
         "hautelook/phpass": "0.3",
         "mukadi/doctrine-crud": "^1.0",
-        "johnpbloch/wordpress": "^5.1",
+        "johnpbloch/wordpress": "^5.7",
         "symfony/dotenv": ">=3.4",
         "symfony/security-core": ">=3.4"
     },
